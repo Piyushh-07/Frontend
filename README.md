@@ -27,7 +27,6 @@ Frontend-/
 
 ---
 
-## ▶️ How to Run
 1. Clone this repo  
    ```bash
    git clone https://github.com/Piyushh-07/Frontend.git
