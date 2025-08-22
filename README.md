@@ -19,10 +19,11 @@ Also supports **voice input (microphone)** for adding tasks.
 ## 📂 Project Structure
 
 Frontend-/
-│── index.html # Main HTML file
-│── style.css # Styling
-│── script.js # App logic
-│── README.md # Documentation
+│── index.html      # Main HTML file
+│── style.css       # Styling
+│── script.js       # App logic
+│── README.md       # Documentation
+
 
 
 ---
