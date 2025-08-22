@@ -1,13 +1,13 @@
 body {
   font-family: Arial, sans-serif;
-  background: #6b7377;
+  background: #a1a6ab;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
 }
 .todo-container {
-  background: rgb(73, 71, 71);
+  background: rgb(105, 100, 100);
   padding: 20px;
   border-radius: 12px;
   width: 350px;
@@ -57,10 +57,10 @@ li.completed {
   color: gray;
 }
 .delete-btn {
-  background: rgb(248, 48, 48);
+  background: red;
   padding: 5px 10px;
   border-radius: 6px;
-  color: rgb(255, 255, 255);
+  color: white;
   cursor: pointer;
 }
 .delete-btn:hover {
